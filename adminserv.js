@@ -5,7 +5,7 @@ const app = express();
 app.use(express.static('public'))
 
 app.get('/', (req, res) => {
-    res.sendFile(__dirname + '/public/admin.html')
+    res.sendFile(__dirname + '/public/adminpanel.html')
 })
 
 const PORT = 3000;
