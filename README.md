@@ -1,4 +1,4 @@
-Инструкция
-1. npm install
-2. node server.js
-3. node adminServer.js
+Инструкция для запуска проекта:
+1. Прописать в консоли npm install
+2. Прописать в консоли node server.js для запуска сервера
+3. Прописать в консоли node adminServer.js для запуска админ сервера
