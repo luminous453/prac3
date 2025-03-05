@@ -15,11 +15,9 @@
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luminous453/prac3.git",
-
+    "url": "git+https://github.com/luminous453/prac3.git"
   },
   "bugs": {
     "url": "https://github.com/luminous453/prac3/issues"
